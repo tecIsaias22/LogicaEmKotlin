@@ -1,8 +1,14 @@
 package Variaveis
 
 fun main() {
-
     /*
+
+ * Imprime o que voce escrever entre os dois parente no verde
+ * print("Ola mundo")
+
+ * Imprime o que voce escrever entre os dois parente no verde
+ * print("Espero que voce esteja bem?")
+
  * Numeros
  * Tipo tamanho (bits) faixa de valores
  *
@@ -18,7 +24,8 @@ fun main() {
 
  * Boolean           8
  * char              16
-*/
+
+    */
 
     var Idade: Byte
     Idade = 22
