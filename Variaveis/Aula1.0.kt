@@ -27,7 +27,13 @@ fun main() {
     var n8 = 80
     var Div = n7 * n8
 
-    println("Soma " + Soma)
+    // rem() mod() -> resto de uma divisao
+    println(10%2)
+    println(10.rem(2))
+    println(10.mod(2))
+
+
+    println("\n" + "Soma " + Soma)
     println("Soma " + (n1 + n2) + "\n")
 
     println("Subtração " + Subt)
