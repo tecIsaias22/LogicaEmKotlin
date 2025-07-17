@@ -76,15 +76,6 @@ fun main() {
  */
 
 
-    val idade: Int
-    idade = 10
-    if(idade == 10){
-        println("SIM")
-    }else{
-        println("NAO")
-
-    }
-
     /*
     // rem() mod() -> resto de uma divisao
     println(10%2)
